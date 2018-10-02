@@ -1,5 +1,5 @@
 ## Overview
-The following code is a simple example of predicting a given set of data from a trained set of Decision Tree, where the data can be of any kind of values.
+The following Python code is a simple example of predicting a given set of data from a trained set of Decision Tree, where the data can be of any kind of values.
 
 ## About the code
 The dependencies used here are :
